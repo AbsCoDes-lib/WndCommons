@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_spitter_panel.html" title="abscodes::wndcommons\l::CWndResizer::CSpitterPanel" alt="" coords="5,169,204,211"/>
+<area shape="rect" id="node2" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_panel.html" title="abscodes::wndcommons\l::CWndResizer::CPanel" alt="" coords="252,169,419,211"/>
+<area shape="rect" id="node3" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_flow_layout_panel.html" title="abscodes::wndcommons\l::CWndResizer::CFlowLayoutPanel" alt="" coords="467,5,693,47"/>
+<area shape="rect" id="node4" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_root_panel.html" title="abscodes::wndcommons\l::CWndResizer::CRootPanel" alt="" coords="487,71,673,112"/>
+<area shape="rect" id="node5" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_split_container.html" title="abscodes::wndcommons\l::CWndResizer::CSplitContainer" alt="" coords="476,136,684,177"/>
+<area shape="rect" id="node6" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_split_panel.html" title="abscodes::wndcommons\l::CWndResizer::CSplitPanel" alt="" coords="487,201,673,243"/>
+<area shape="rect" id="node7" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_u_i_panel.html" title="abscodes::wndcommons\l::CWndResizer::CUIPanel" alt="" coords="494,267,666,308"/>
+<area shape="rect" id="node8" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_visual_panel.html" title="abscodes::wndcommons\l::CWndResizer::CVisualPanel" alt="" coords="482,332,678,373"/>
+<area shape="rect" id="node9" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_gripper_panel.html" title="abscodes::wndcommons\l::CWndResizer::CGripperPanel" alt="" coords="745,295,948,336"/>
+<area shape="rect" id="node10" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_splitter_gripper_panel.html" title="abscodes::wndcommons\l::CWndResizer::CSplitterGripper\lPanel" alt="" coords="741,361,952,417"/>
+</map>

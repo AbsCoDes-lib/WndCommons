@@ -1,0 +1,3 @@
+<map id="abscodes::wndcommons::CWndResizer::CRootPanel" name="abscodes::wndcommons::CWndResizer::CRootPanel">
+<area shape="rect" id="node2" href="$classabscodes_1_1wndcommons_1_1_c_wnd_resizer_1_1_c_panel.html" title="{abscodes::wndcommons\l::CWndResizer::CPanel\n|+ Anchor\l+ Dock\l+ Name\l+ Parent\l+ Children\l+ LeftOffset\l+ TopOffset\l+ RightOffset\l+ BottomOffset\l+ MinSize\l+ MaxSize\l|+ CPanel()\l+ CPanel()\l+ ~CPanel()\l+ OnResized()\l+ AddChild()\l+ RemoveChild()\l+ SetAnchor()\l+ SetMinSize()\l+ SetMaxSize()\l+ ToString()\l+ GetTypeName()\l+ GetHookedWnd()\l&#45; Init()\l}" alt="" coords="15,131,182,545"/>
+</map>

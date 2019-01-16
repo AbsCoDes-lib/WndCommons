@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{80e7a3aa-4e83-4233-9957-f45c00668b83}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{37411b4c-c66a-4914-b629-1e02342815aa}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="src\WndCommons">
+      <UniqueIdentifier>{6eee9942-20a5-470e-9124-6d8dbd412198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\WndCommons">
+      <UniqueIdentifier>{7f65e4d8-16ca-4677-8f53-97eecd204b53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\WndResizer">
+      <UniqueIdentifier>{138f7c33-fa48-4d19-aa0b-4c1251fdb3fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\WndResizer">
+      <UniqueIdentifier>{0f2bf4e7-5651-4c0d-a2b5-50b6d46ed692}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\wndcommons\WndCommonsApi.h">
+      <Filter>include\WndCommons</Filter>
+    </ClInclude>
+    <ClInclude Include="include\wndcommons\WndCommons.h">
+      <Filter>include\WndCommons</Filter>
+    </ClInclude>
+    <ClInclude Include="include\WndResizer\WndResizer.h">
+      <Filter>include\WndResizer</Filter>
+    </ClInclude>
+    <ClInclude Include="include\targetver.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stdafx.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include=".clang-format" />
+    <None Include="README.md" />
+    <None Include="include\WndResizer\README.md">
+      <Filter>include\WndResizer</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\WndResizer\WndResizer.cpp">
+      <Filter>src\WndResizer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\stdafx.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
